@@ -1,0 +1,23 @@
+Eye CNN Evaluation
+Timestamp: 20251124_090206
+
+Accuracy : 0.9687
+Precision: 0.9994
+Recall   : 0.9396
+F1-score : 0.9686
+AUC      : 0.9994
+
+Classification Report:
+              precision    recall  f1-score   support
+
+      closed       0.94      1.00      0.97      1566
+        open       1.00      0.94      0.97      1657
+
+    accuracy                           0.97      3223
+   macro avg       0.97      0.97      0.97      3223
+weighted avg       0.97      0.97      0.97      3223
+
+
+Confusion Matrix:
+[[1565    1]
+ [ 100 1557]]
