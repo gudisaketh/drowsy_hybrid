@@ -26,3 +26,9 @@ dataset/
 build/
 dist/
 *.spec
+Sample test/
+evaluation_results/
+dataset/
+session_results/
+__pycache__/
+*.DS_Store
